@@ -1,0 +1,17 @@
+.error{
+    color: red;
+    /*margin-left: 5px;*/
+}
+.col-sm-9 label {
+    margin-left: 5px;
+    
+}
+.super-icon{
+    display: inline-block;
+    font-size: 18px;
+    font-weight: normal;
+    margin-right: 2px;
+    min-width: 30px;
+    text-align: center;
+    vertical-align: middle;
+}

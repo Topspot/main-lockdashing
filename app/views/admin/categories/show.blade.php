@@ -1,0 +1,1 @@
+D:\Xampp\htdocs\lockdashing\app/views/categories/show.blade.php
